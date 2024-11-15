@@ -1,4 +1,4 @@
-# IBM Cognitive Class  Recommendation System
+# [IBM Cognitive Class] Recommendation System
  Netflix-like recommendation system with Sklearn
 
 At a Glance
